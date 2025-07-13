@@ -1,16 +1,11 @@
-## Hi there 👋
+Jon Daniel Fortuno 💡🚀
+Aspiring Web Developer | 💻 Web Developer | 🔧 Builder of Smart Digital Experiences
+Let’s connect and turn ideas into innovation! 🤝✨
 
-<!--
-**Fjondaniel/Fjondaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack I Work With:
+HTML5, CSS3, JavaScript, PHP, Java, C#,
+Laravel, NodeJS, Nodemon, Bootstrap, TailwindCSS, jQuery.
+WordPress, Chart.js.
+☁️ Google Cloud AWS, Vercel.
+🛠️ Apache Apache Tomcat.
+🗃️ MySQL, MongoDB, MariaDB, Microsoft SQL Server.
