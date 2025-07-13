@@ -56,16 +56,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fjondaniel&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fjondaniel&theme=radical" width="49%"/>
 </p>
 
 ---
 
 ### 🔗 Let’s Connect!
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 📸 Instagram: [@yourusername](https://www.instagram.com/yourusername)  
+- 🌐 Portfolio: [yourwebsite.com](https://fjondaniel.vercel.app/)  
+- 📸 Instagram: [@yourusername](https://www.instagram.com/Svyloz)  
 - 💬 Open to collabs, student projects, and learning new tech together!
 
 ---
