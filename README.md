@@ -64,8 +64,8 @@
 
 ### 🔗 Let’s Connect!
 
-- 🌐 Portfolio: [yourwebsite.com](https://fjondaniel.vercel.app/)  
-- 📸 Instagram: [@yourusername](https://www.instagram.com/Svyloz)  
+- 🌐 Portfolio: [fjondaniel.vercel.app](https://fjondaniel.vercel.app/)  
+- 📸 Instagram: [@Svyloz](https://www.instagram.com/Svyloz)  
 - 💬 Open to collabs, student projects, and learning new tech together!
 
 ---
